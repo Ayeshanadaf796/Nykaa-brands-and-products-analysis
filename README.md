@@ -12,21 +12,21 @@ The analysis was performed using **Python (Pandas, Seaborn, Matplotlib)** and vi
 ---
 ## 🎯 Business Objectives
 
-1.Which brands dominate Nykaa’s product portfolio in terms of SKU count?
+1. Which brands dominate Nykaa’s product portfolio in terms of SKU count?
 
-2.How does pricing strategy (MRP vs Selling Price) vary across brands?
+2. How does pricing strategy (MRP vs Selling Price) vary across brands?
 
-3.What is the impact of discounts on customer appeal and sales potential?
+3. What is the impact of discounts on customer appeal and sales potential?
 
-4.Which brands face the highest out-of-stock issues, leading to lost sales?
+4. Which brands face the highest out-of-stock issues, leading to lost sales?
 
-5.What are the top 10 products by MRP and discount percentage?
+5. What are the top 10 products by MRP and discount percentage?
 
-6.Which brands consistently achieve the highest average customer ratings?
+6. Which brands consistently achieve the highest average customer ratings?
 
-7.How do ratings correlate with customer trust?
+7. How do ratings correlate with customer trust?
 
-8.Which categories and brands provide opportunities for business growth?
+8. Which categories and brands provide opportunities for business growth?
 
 ---
 ## 📷 Power BI Dashboard
