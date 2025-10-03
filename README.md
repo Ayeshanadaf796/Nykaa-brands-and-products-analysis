@@ -1,4 +1,4 @@
-# 🛍️ Nykaa Product Data Analysis
+# 🛍️ Nykaa Brands and Products Data Analysis
 
 <p align="center">
   <img src="images/NYKAAA.jpg" alt="Nykaa Logo" width="800"/>
