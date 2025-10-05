@@ -34,11 +34,16 @@ The analysis was performed using **Python (Pandas, Seaborn, Matplotlib)** and vi
   <img src="images/Nykaa Dashboard PNG.png" alt="Power BI Dashboard" width="1000"/>
 </p>
 
+---
 ## 🧩 Key Insights
-- **Nykaa-owned brands dominate** with 1,253 SKUs (~40% of portfolio) → signals strong private label play.  
-- **Out-of-stock products** in brands like Biotique (370 SKUs, many unavailable) → lost sales potential.  
-- **Top 10 brands** (Nykaa, Biotique, Lakme, Lotus, Maybelline etc.) make up ~70% of total inventory.  
-- **Discount-heavy SKUs** (up to 60%+) drive traffic but risk profitability.  
+- **Nykaa-owned brands dominate** with 1,253 SKUs (~40% of portfolio) → signals strong private label play.
+  
+- **Out-of-stock products** in brands like Biotique (370 SKUs, many unavailable) → lost sales potential.
+  
+- **Top 10 brands** (Nykaa, Biotique, Lakme, Lotus, Maybelline etc.) make up ~70% of total inventory.
+  
+- **Discount-heavy SKUs** (up to 60%+) drive traffic but risk profitability.
+  
 - **Higher-rated brands** like Kay Beauty & Faces Canada (avg. >4.3) → customer loyalty levers.  
 
 ---
