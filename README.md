@@ -1,7 +1,7 @@
 # 🛍️ Nykaa Brands and Products Data Analysis
 
 <p align="center">
-  <img src="images/NYKAAA.jpg" alt="Nykaa Logo" width="800"/>
+  <img src="images/Nykaa Image.png" alt="Nykaa Logo" width="1000"/>
 </p>
 
 ## 📊 Project Overview
