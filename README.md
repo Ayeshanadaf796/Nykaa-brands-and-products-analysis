@@ -1,4 +1,4 @@
-# 🛍️ Nykaa Brands and Products Data Analysis
+# 🛍️ Nykaa BrandPulse: Brand-Wise Product Performance Analysis
 
 <p align="center">
   <img src="images/Nykaa Image.png" alt="Nykaa Logo" width="1000"/>
